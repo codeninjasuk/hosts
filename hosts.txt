@@ -1,0 +1,3 @@
+10.26.104.200 youtube.com
+10.26.104.200 yahoo.com
+10.26.104.200 google.com
